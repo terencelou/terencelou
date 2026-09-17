@@ -9,11 +9,9 @@
 
 ## About
 
-**[AnySearch](https://anysearch.com/) is the search infrastructure your AI can trust.**
+**[AnySearch](https://anysearch.com/) is the search infrastructure for AI Agents.**
 
-We build our own general search engine, covering 20+ vertical domains including finance, law, academia, security, code, and more.
-
-AnySearch understands search intent, routes queries to relevant sources, and returns structured Markdown results with source information. Integrate via API, MCP, or Skill to bring high-quality search to AI agents and workflows.
+API, MCP, and Skill. One unified search interface for high-quality information.
   
 ## Follow us
 
