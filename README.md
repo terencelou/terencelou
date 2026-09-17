@@ -11,7 +11,7 @@
 
 **[AnySearch](https://anysearch.com/) is the search infrastructure for AI Agents.**
 
-API, MCP, and Skill. One unified search interface for high-quality information.
+API, MCP and Skill. One unified search interface for high-quality information.
   
 ## Follow us
 
