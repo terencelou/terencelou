@@ -72,14 +72,13 @@ Copy the prompt below and send it to your Agent to perform automated installatio
 
 ### API
 ```
-1 Copy the prompt below and send it to your Agent to perform automated installation:
-2 curl -X POST https://api.anysearch.com/v1/search \
-3  -H "Content-Type: application/json" \
-4  -d '{
-5    "query": "Go 1.26 release notes",
-6    "tag": "code.doc",
-7    "params": {"library": "golang"}
-8  }'
+1 curl -X POST https://api.anysearch.com/v1/search \
+2  -H "Content-Type: application/json" \
+3  -d '{
+4    "query": "Go 1.26 release notes",
+5    "tag": "code.doc",
+6    "params": {"library": "golang"}
+7  }'
 ```
 
 
