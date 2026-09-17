@@ -14,71 +14,31 @@
 We build our own general search engine, covering 20+ vertical domains including finance, law, academia, security, code, and more.
 
 AnySearch understands search intent, routes queries to relevant sources, and returns structured Markdown results with source information. Integrate via API, MCP, or Skill to bring high-quality search to AI agents and workflows.
+  
+## Follow us
 
-
-## Start
-
-</p>
-
-### MCP
-
-Copy the prompt below, or configure MCP for your preferred agent.
-
-```
-Install the AnySearch MCP according to: https://anysearch.com/install/mcp-install.md
-```
 <p align="center">
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Claude Code.png" width="30" hspace="25" alt="Claude Code">
+  <a href="https://space.bilibili.com/3706990326974802">
+    <img src="./assets/Bilibili.png" width="40" hspace="30">
   </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/VS Code.png" width="30" hspace="25" alt="VS Code">
+  <a href="https://www.facebook.com/AnySearchAI/">
+    <img src="./assets/Facebook.png" width="40" hspace="30">
   </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Codex.png" width="30" hspace="25" alt="Codex">
+  <a href="https://www.instagram.com/anysearchai/">
+    <img src="./assets/Instagram.png" width="40" hspace="30">
   </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Cursor.png" width="30" hspace="25" alt="Cursor">
+  <a href="https://www.tiktok.com/@anysearch.ai">
+    <img src="./assets/TikTok.png" width="40" hspace="30">
   </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/OpenCode.png" width="30" hspace="25" alt="OpenCode">
+  <a href="https://x.com/AnySearchAI">
+    <img src="./assets/X.png" width="40" hspace="30">
   </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Cline.png" width="30" hspace="25" alt="Cline">
+  <a href="https://www.xiaohongshu.com/user/profile/6a073494000000000103fc00">
+    <img src="./assets/Xiaohongshu.png" width="40" hspace="30">
   </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/OMP.png" width="30" hspace="25" alt="OMP">
-  </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Google Antigravity.png" width="30" hspace="25" alt="Google Antigravity">
-  </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/DeepSeek Harness.png" width="30" hspace="25" alt="DeepSeek Harness">
-  </a>
-  <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Hermes Agent.png" width="30" hspace="25" alt="Hermes Agent">
+  <a href="https://www.youtube.com/@AnySearchAI">
+    <img src="./assets/Youtube.png" width="40" hspace="30">
   </a>
 </p>
-
-
-### Skill
-
-Copy the prompt below and send it to your Agent to perform automated installation:
-
-``` 
-1 Install the AnySearch SKILL according to
-2 https://anysearch.com/install/skill-install.md
-```
-
-### API
-```
-1 curl -X POST https://api.anysearch.com/v1/search \
-2  -H "Content-Type: application/json" \
-3  -d '{
-4    "query": "Go 1.26 release notes",
-5    "tag": "code.doc",
-6    "params": {"library": "golang"}
-7  }'
-```
 
 
