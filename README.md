@@ -12,6 +12,7 @@ AnySearch understands search intent, routes queries to relevant sources, and ret
 
 
 
+
 <p align="center">
 <a href="https://www.producthunt.com/products/anysearch/launches/anysearch-3?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_campaign=badge-anysearch-3" target="_blank" rel="noopener noreferrer"><img alt="AnySearch - Real-time structured search trusted by agents and developers | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1185300&amp;theme=light&amp;period=daily&amp;t=1789611724442"></a>
 <a href="https://www.producthunt.com/products/anysearch/launches/anysearch-3?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_campaign=badge-anysearch-3" target="_blank" rel="noopener noreferrer"><img alt="AnySearch - Real-time structured search trusted by agents and developers | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1185300&amp;theme=light&amp;period=weekly&amp;t=1789611724442"></a>
