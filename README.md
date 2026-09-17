@@ -29,34 +29,34 @@ Install the AnySearch MCP according to: https://anysearch.com/install/mcp-instal
 ```
 <p align="center">
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Claude Code.png" width="30" hspace="28" alt="Claude Code">
+    <img src="./assets/agents/Claude Code.png" width="30" hspace="25" alt="Claude Code">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/VS Code.png" width="30" hspace="28" alt="VS Code">
+    <img src="./assets/agents/VS Code.png" width="30" hspace="25" alt="VS Code">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Codex.png" width="30" hspace="28" alt="Codex">
+    <img src="./assets/agents/Codex.png" width="30" hspace="25" alt="Codex">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Cursor.png" width="30" hspace="28" alt="Cursor">
+    <img src="./assets/agents/Cursor.png" width="30" hspace="25" alt="Cursor">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/OpenCode.png" width="30" hspace="28" alt="OpenCode">
+    <img src="./assets/agents/OpenCode.png" width="30" hspace="25" alt="OpenCode">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Cline.png" width="30" hspace="28" alt="Cline">
+    <img src="./assets/agents/Cline.png" width="30" hspace="25" alt="Cline">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/OMP.png" width="30" hspace="28" alt="OMP">
+    <img src="./assets/agents/OMP.png" width="30" hspace="25" alt="OMP">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Google Antigravity.png" width="30" hspace="28" alt="Google Antigravity">
+    <img src="./assets/agents/Google Antigravity.png" width="30" hspace="25" alt="Google Antigravity">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/DeepSeek Harness.png" width="30" hspace="28" alt="DeepSeek Harness">
+    <img src="./assets/agents/DeepSeek Harness.png" width="30" hspace="25" alt="DeepSeek Harness">
   </a>
   <a href="https://anysearch.com/docs/mcp-install">
-    <img src="./assets/agents/Hermes Agent.png" width="30" hspace="28" alt="Hermes Agent">
+    <img src="./assets/agents/Hermes Agent.png" width="30" hspace="25" alt="Hermes Agent">
   </a>
 </p>
 
